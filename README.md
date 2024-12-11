@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- I'm currently working on a small clicker game with a few friends.
+- I'm currently working on a small clicker game with a few friends on Godot.
 - I'm currently learning a bunch of stuff as a first year student at Epitech.
 
 <!--
