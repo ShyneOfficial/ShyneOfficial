@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- I'm currently working on a small clicker game with a few friends on Godot.
+- I'm currently working on a dofus-like game with a friend of mine in C++ with Raylib.
 - I'm currently learning a bunch of stuff as a first year student at Epitech.
 
 <!--
